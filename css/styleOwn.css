@@ -12,3 +12,8 @@
     width: 100%;
     position: absolute;
 }
+
+.navbar a.navbar-brand {
+    font-family: 'Rajdhani', serif;
+    font-size: 28px;
+}
